@@ -1,0 +1,15 @@
+#form label {
+    font-family: 'Sen', sans-serif;
+}
+
+#form {
+    margin-top: 40vh;
+}
+
+#form div {
+    text-align: center;
+}
+
+.submit-btn {
+    text-align: center;
+}
